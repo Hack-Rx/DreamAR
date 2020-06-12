@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/_Creepy_Cat/_3D Cartoon Level Pack Vol 1/Scene_City_Day.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
