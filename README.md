@@ -12,7 +12,7 @@
 <li>As soon as the game starts, the city starts getting infected with by the corona virus. Your task is to Quarantine certain public areas and apartments in order to minimize the risk of the outbreak for the people of this city.</li> 
 <li>But beware the quarantined areas also become free after sometime as people can’t stay in isolation without resources for long periods of time. </li>
 <li>Considering all the constraints your job is to keep the death rate of your city as low as possible and keep the citizens of this city safe and happy.</li>
-</ul
+</ul>
   
 ## Our Progress
 
