@@ -13,3 +13,37 @@
 <li>But beware the quarantined areas also become free after sometime as people can’t stay in isolation without resources for long periods of time. </li>
 <li>Considering all the constraints your job is to keep the death rate of your city as low as possible and keep the citizens of this city safe and happy.</li>
 </ul
+  
+  ## Our Progress
+
+### 1. Pitcher 1:
+* Designed and developed the city.
+* Implemented AR-based ground tracking and anchoring for the city. 
+### 2. Pitcher 2:
+* Based on the suggestions from the mentors we first implemented a 3D map of a real-world place in our Unity project.
+* Implemented Mapbox SDK for Unity in order to develop city based on user's selected location.
+### 3. Pitcher 3:
+* Completed the random movement of citizens from home to public places and vice versa.
+
+* Implemented the Markov's probabilistic model to determine the state of the user i.e. susceptible, infected or dead.
+* Developed a script to ensure the citizens stay indoors during quarantine.
+* Added a Scoreboard to keep a track of the healthy, infected, and dead citizens.
+* Implemented the entire backend logic for the working prototype.
+
+## About the Team
+
+### Mihir Tale
+* AR/VR Developer.
+* ML and DL enthusiast.
+* Android Developer with expertise in Android Studio and Flutter.
+* Programming languages: Python, C++, C.
+* Github: https://github.com/mstale007
+* LinkedIn: https://www.linkedin.com/in/im-mihir/
+
+### Aniket Ghorpade
+* AR/VR Developer.
+* ML and DL enthusiast.
+* Web Developer having knowledge of various frameworks such as ReactJS, AngularJS, NodeJS and ExpressJS.
+* Programming languages: C++, Python, C, Javascript.
+* Github: https://github.com/Anigor66
+* LinkedIn: https://www.linkedin.com/in/aniketghorpade/
