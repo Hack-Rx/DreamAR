@@ -14,7 +14,7 @@
 <li>Considering all the constraints your job is to keep the death rate of your city as low as possible and keep the citizens of this city safe and happy.</li>
 </ul
   
-  ## Our Progress
+## Our Progress
 
 ### 1. Pitcher 1:
 * Designed and developed the city.
