@@ -30,6 +30,10 @@
 * Added a Scoreboard to keep a track of the healthy, infected, and dead citizens.
 * Implemented the entire backend logic for the working prototype.
 
+## Future Scope
+* Adding multiplayer features to increase competitive feeling.
+* Making the application more realistic by adding real-life scenarios.
+
 ## About the Team
 
 ### Mihir Tale
